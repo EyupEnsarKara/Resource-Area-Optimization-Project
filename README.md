@@ -6,8 +6,8 @@ Bu proje, denizlerde doğal kaynak arama ve çıkarma işlemleri yapan bir şirk
 
 ## 👥 Proje Geliştiricileri
 
-- **Eyüp Ensar Kara** (220201061)
-- **Yunus Hanifi Öztürk** (220201083)
+- **Eyüp Ensar Kara** 
+- **Yunus Hanifi Öztürk** 
 
 ## 🎯 Proje Amacı
 
